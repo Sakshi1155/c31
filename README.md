@@ -66,3 +66,6 @@ To transfer tokens, use the `transfer` function.
 ## Deployment
 
 Ensure Solidity version ^0.8.20 is used for contract compilation. Deploy the contract on a suitable Ethereum network, considering gas costs and transaction fees.
+
+## License
+This contract is licensed under the MIT License.
